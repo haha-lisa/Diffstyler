@@ -1,7 +1,7 @@
 # Diffstyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 
-## Official Pytorch implementation of "Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion" 
+## Official Pytorch implementation of ["DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization"](https://arxiv.org/abs/2211.10682)
 
 [Project Page(https://arxiv.org/abs/2211.10682)]
 
