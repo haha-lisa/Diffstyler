@@ -5,7 +5,7 @@ DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 
 [Project Page(https://arxiv.org/abs/2211.10682)]
 
-![MAIN3_e2-min](https://github.com/haha-lisa/Diffstyler/blob/main/figure/teaser2.png)
+![MAIN3_e2-min](https://github.com/haha-lisa/Diffstyler/blob/main/figure/teaser2.jpg)
 
 [Nisha Huang], [Yuxin Zhang], [Fan Tang], [Chongyang Ma], [Haibin Huang], [Yong Zhang], [Weiming Dong], [Changsheng Xu]
 
@@ -14,7 +14,7 @@ DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 
 ## Framework
 ![MAIN3_e2-min](https://github.com/haha-lisa/Diffstyler/blob/main/figure/pipeline5.jpg)
-
+The overall pipeline of our DiffStyler framework.
 ## Environment
 ```
 conda create -n diffstyler python=3.9
