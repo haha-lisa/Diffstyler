@@ -5,7 +5,7 @@ DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 
 [Project Page(https://arxiv.org/abs/2211.10682)]
 
-
+![MAIN3_e2-min](https://github.com/haha-lisa/Diffstyler/blob/main/teaser.png)
 
 [Nisha Huang], [Yuxin Zhang], [Fan Tang], [Chongyang Ma], [Haibin Huang], [Yong Zhang], [Weiming Dong], [Changsheng Xu]
 
