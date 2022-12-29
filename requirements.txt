@@ -5,3 +5,4 @@ Pillow
 torch
 torchvision
 tqdm
+lpips
