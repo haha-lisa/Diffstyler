@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Run
 ```
-python main.py "./data/dog.jpg" "An oil painting of a dog in impressionism style." --output "./output/test_dog.png" -fs 0.8 -ws 0.2 -lc 3 --steps 50
+python main.py "dog.jpg" "An oil painting of a dog in impressionism style." --output "test_dog.png" -fs 0.8 -ws 0.2 -lc 3 --steps 50
 ```
 
 
