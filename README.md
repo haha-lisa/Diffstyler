@@ -22,7 +22,16 @@ pip3 install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f h
 ## Install dependencies
 ```
 pip install -e ./CLIP
-pip install lpips
+pip install -r requirements.txt
+```
+
+## Pretrained models
+[CC12M_cfg](https://the-eye.eu/public/AI/models/v-diffusion/cc12m_1_cfg.pth), [WikiArt](https://the-eye.eu/public/AI/models/v-diffusion/wikiart_256.pth)
+<br> Please download them and put them into the floder ./checkpoints/ <br> 
+
+## Run
+```
+python main.py "./data/dog.jpg" "An oil painting of a dog in impressionism style." --output "./output/test_dog.png" -fs 0.8 -ws 0.2 -lc 3 --steps 50
 ```
 
 
