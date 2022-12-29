@@ -46,3 +46,6 @@ title = {DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylizati
 year = {2022}
 }
 ```
+
+## License
+The codes and the pretrained model in this repository are under the MIT license as specified by the LICENSE file.<br>
