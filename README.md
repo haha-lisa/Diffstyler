@@ -40,10 +40,11 @@ python main.py "dog.jpg" "An oil painting of a dog in impressionism style." --ou
 
 ## Cite
 ```
-@inproceedings{Huang2022DIFFSTYLER,
-author = {Nisha, Huang and Yuxin, Zhang and Fan, Tang and Chongyang, Ma and Haibin, Huang and Yong, Zhang and Weiming, Dong and Changsheng, Xu},
-title = {DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization},
-year = {2022}
+@article{huang2022diffstyler,
+  title={DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization},
+  author={Huang, Nisha and Zhang, Yuxin and Tang, Fan and Ma, Chongyang and Huang, Haibin and Zhang, Yong and Dong, Weiming and Xu, Changsheng},
+  journal={arXiv preprint arXiv:2211.10682},
+  year={2022}
 }
 ```
 
