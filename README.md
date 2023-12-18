@@ -43,8 +43,8 @@ python main.py "dog.jpg" "An oil painting of a dog in impressionism style." --ou
 @article{huang2022diffstyler,
   title={DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization},
   author={Huang, Nisha and Zhang, Yuxin and Tang, Fan and Ma, Chongyang and Huang, Haibin and Zhang, Yong and Dong, Weiming and Xu, Changsheng},
-  journal={arXiv preprint arXiv:2211.10682},
-  year={2022}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023}
 }
 ```
 
