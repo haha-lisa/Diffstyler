@@ -7,7 +7,6 @@ DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization
 
 ![MAIN3_e2-min](https://github.com/haha-lisa/Diffstyler/blob/main/figure/teaser2.jpg)
 
-[Nisha Huang], [Yuxin Zhang], [Fan Tang], [Chongyang Ma], [Haibin Huang], [Yong Zhang], [Weiming Dong], [Changsheng Xu]
 
 ## Abstract
 > Despite the impressive results of arbitrary image-guided style transfer methods, text-driven image stylization has recently been proposed for transferring a natural image into the stylized one according to textual descriptions of the target style provided by the user. Unlike previous image-to-image transfer approaches, text-guided stylization progress provides users with a more precise and intuitive way to express the desired style. However, the huge discrepancy between cross-modal inputs/outputs makes it challenging to conduct text-driven image stylization in a typical feed-forward CNN pipeline. In this paper, we present DiffStyler on the basis of diffusion models. The cross-modal style information can be easily integrated as guidance during the diffusion progress step-by-step. In particular, we use a dual diffusion processing architecture to control the balance between the content and style of the diffused results. Furthermore, we propose a content image-based learnable noise on which the reverse denoising process is based, enabling the stylization results to better preserve the structure information of the content image. We validate the proposed DiffStyler beyond the baseline methods through extensive qualitative and quantitative experiments.
@@ -38,15 +37,6 @@ python main.py "dog.jpg" "An oil painting of a dog in impressionism style." --ou
 ```
 
 
-## Cite
-```
-@article{huang2022diffstyler,
-  title={DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization},
-  author={Huang, Nisha and Zhang, Yuxin and Tang, Fan and Ma, Chongyang and Huang, Haibin and Zhang, Yong and Dong, Weiming and Xu, Changsheng},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2023}
-}
-```
 
 ## License
 The codes and the pretrained model in this repository are under the MIT license as specified by the LICENSE file.<br>
