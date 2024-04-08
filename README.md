@@ -37,6 +37,18 @@ python main.py "dog.jpg" "An oil painting of a dog in impressionism style." --ou
 ```
 
 
-
 ## License
-The codes and the pretrained model in this repository are under the MIT license as specified by the LICENSE file.<br>
+The codes and the pretrained model in this repository are under the MIT license as specified by the LICENSE file.<be>
+
+## Citation
+If you find our work is useful in your research, please consider citing:
+
+```
+@article{huang2024diffstyler,
+  title={Diffstyler: Controllable dual diffusion for text-driven image stylization},
+  author={Huang, Nisha and Zhang, Yuxin and Tang, Fan and Ma, Chongyang and Huang, Haibin and Dong, Weiming and Xu, Changsheng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
+}
+```
